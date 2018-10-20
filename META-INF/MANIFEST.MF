@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/tekst.xml
+SHA1-Digest: D7b7o+ICry9EC7FXs+VcKhYbZ+Y=
+
+Name: res/drawable-xhdpi/abakus.png
+SHA1-Digest: maWHhV+xk0tl/8Te1aDJyJzygR8=
+
+Name: res/drawable/title.xml
+SHA1-Digest: PiB4GKMWFpqXsEMnjGMY9S3bwrM=
+
+Name: res/drawable-mdpi/abakus.png
+SHA1-Digest: o52pS2SUP6sUh4dDLFJRSUntYes=
+
+Name: resources.arsc
+SHA1-Digest: CxIpQ4KMyPvrU/LriUgR6MYkdjo=
+
+Name: classes.dex
+SHA1-Digest: fXPJ7mCnpttoJz+m9hgNEbHc+gM=
+
+Name: res/drawable-hdpi/abakus.png
+SHA1-Digest: 4FQY3Oa6dLST7NwJHt+c9s/Lxqg=
+
+Name: res/menu/main.xml
+SHA1-Digest: 2Fg/q2Y3ngAUhcTbiis50hh5ri0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: UgWsQn42F+7/PyJqlRU2zw2YPrA=
+
+Name: res/layout/mytitle.xml
+SHA1-Digest: tuf/Y7/RzT5B1JZfi0NyUX2NQjY=
+
+Name: res/anim/anim.xml
+SHA1-Digest: q61CkwtwZLzlyu33ql12Yb9kx8A=
+
+Name: res/drawable-ldpi/abakus.png
+SHA1-Digest: 0Gp+Bo30UXA8GLC5Qc7bTK4cZTU=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: mDdSF07NcL0oGegKDziStagRDAI=
+
+Name: res/drawable/m.xml
+SHA1-Digest: 5G/uB6y4jujduW6YmQ56xpBbYBs=
+
+Name: res/drawable-xxhdpi/abakus.gif
+SHA1-Digest: 2S9K6YyLqy81kzMXD66MLDx868g=
+
+Name: res/drawable/dugme.xml
+SHA1-Digest: ih4iiG1QDx8w4jFTyDmO4JHH7Gc=
+
+Name: res/drawable/background.xml
+SHA1-Digest: CCDrikQfSB6NvMf5ndBDmZ19iW0=
+
